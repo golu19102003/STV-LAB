@@ -79,10 +79,15 @@ The Software Testing and Validation Lab plays a crucial role in ensuring softwar
 ### RTU Software Testing and Validation Lab Experiments:
 **1.**
 a) Write a program that calculates the area and perimeter of a circle and find the test cases & coverage using JaButi.
+
 b) Write a program to read first name and last name from console and match expected results using JaButi.
+
 c) Write a program to solve quadratic equation using coefficients a, b, and c.
+
 d) Write a program to read website URL from file (format: www.example.com) and extract site name. Perform testing using JaButi.
+
 e) Write a calculator program and find test cases, coverage, and Def-use graph.
+
 f) Write a program to compare two passwords and output length of smaller word. Test using JaButi.
 
 **2.** Analyze the performance of the following websites using Apache JMeter:
